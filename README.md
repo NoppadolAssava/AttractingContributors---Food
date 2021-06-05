@@ -33,4 +33,5 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 9. Baumkuchen
 10. Bubble Tea
 11. shoyu ramen
+12. POTATO
 
